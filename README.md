@@ -2,4 +2,4 @@
 
 PhotoDynamical Multiplanet Model
 
-see https://github.com/smmills/Phodymm
+In process of transferring from https://github.com/smmills/Phodymm
